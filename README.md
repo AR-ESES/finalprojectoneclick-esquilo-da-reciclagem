@@ -8,5 +8,7 @@
 ### Ana Calamote | Sara Sequeira | Sofia Martinho
 
 Este projecto consiste numa ideia de um videojogo do tipo one-click, com o tema da reciclagem de lixo.
+Em termos de mecânicas do jogo, basicamente um esquilo está pendurado num galho de uma árvore, a ir para cima e para baixo com lixo nas mãos, enquanto aparece aleatóriamente os caixotes da reciclagem para colocar o lixo. O objetivo é colocar o lixo correcto no caixote correcto!
+Se colocar no caixote correcto, ganha ponto; se tiver 0 pontos e errar, não ganha ponto; se tiver pontos e errar, perde ponto.
 
-![ecrã](imagens/inicio.jpg)
+![ecrã inicial](imagens/inicio.jpg)
