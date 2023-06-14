@@ -4,8 +4,9 @@
 ![esquilo](imagens/logotipo.svg) 
 
 # O Esquilo da Reciclagem
-## um jogo divertido sobre reciclagem!
+## Um jogo divertido sobre reciclagem!
+### Ana Calamote | Sara Sequeira | Sofia Martinho
 
-I'm baby photo booth lyft keffiyeh ascot try-hard adaptogen trust fund, austin flexitarian food truck authentic celiac gorpcore. Kale chips deep v pug af meggings plaid trust fund cornhole hella, kombucha slow-carb tofu yr. Banh mi offal seitan cloud bread beard migas. Banh mi quinoa messenger bag kinfolk, celiac tousled keytar praxis cloud bread narwhal drinking vinegar Brooklyn truffaut selvage man bun. Jean shorts typewriter vaporware, mustache hella cold-pressed church-key migas prism twee tonx 8-bit gastropub asymmetrical.
+Este projecto consiste numa ideia de um videojogo do tipo one-click, com o tema da reciclagem de lixo.
 
 ![ecrã](imagens/inicio.jpg)
