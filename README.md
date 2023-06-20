@@ -29,10 +29,10 @@ A personagem deste jogo é um esquilo que está preso a uma árvore pelo galho c
 ### Caixotes do Lixo em movimento
 Os caixotes do lixo que estão em movimento durante o jogo são os principais da reciclagem, sendo eles o "indiferenciado", "vidro", "cartão e papel" e "plásticos".
 
-<img src="imagens/indiferenciado.jpg" width="auto" height="500">
-<img src="imagens/vidro.jpg" width="auto" height="500">
-<img src="imagens/cartao.jpg" width="auto" height="500">
-<img src="imagens/plastico.jpg" width="auto" height="500">
+<img src="imagens/indiferenciado.jpg" width="auto" height="400">
+<img src="imagens/vidro.jpg" width="auto" height="400">
+<img src="imagens/cartao.jpg" width="auto" height="400">
+<img src="imagens/plastico.jpg" width="auto" height="400">
 
 ### Lixo
 Ao longo do jogo, o esquilo vai segurando diferentes tipos de lixo diferentes com as patas com o intuito de os deitar no caixote correto.
