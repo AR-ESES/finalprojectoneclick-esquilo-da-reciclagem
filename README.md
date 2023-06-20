@@ -29,7 +29,7 @@ Os caixotes do lixo que estão em movimento durante o jogo são os principais da
 
 ### Lixo
 Ao longo do jogo, o esquilo vai segurando diferentes tipos de lixo diferentes com as patas com o intuito de os deitar no caixote correto.
-
+![lixo](imagens/lixo.jpg)
 
 ### "Acertaste!"/"Erraste!"
 Quando o jogador acerta ou erra a colocar o lixo nos contentores correctos, aparece diferentes pop ups correspondentes a cada situação.
