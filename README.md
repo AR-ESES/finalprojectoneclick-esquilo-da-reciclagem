@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/cjPY6057)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11294754&assignment_repo_type=AssignmentRepo)
 
-![esquilo](imagens/logotipo.svg) 
+![logotipo](imagens/logotipo.svg) 
 
 # O Esquilo da Reciclagem
 ## Um jogo divertido sobre reciclagem!
@@ -14,3 +14,17 @@ Se colocar no caixote correcto, ganha ponto; se tiver 0 pontos e errar, não gan
 ### Ecrã de Início
 Este ecrã é o ecrã de início. Tem um botão para podermos iniciar o jogo e uma imagem de fundo relacionada com o tema do jogo.
 ![ecrã inicial](imagens/inicio.jpg)
+
+### Personagem Principal
+A personagem deste jogo é um esquilo que está preso a uma árvore pelo galho com a cauda dele a segurar.
+
+
+### Caixotes do Lixo em movimento
+Os caixotes do lixo que estão em movimento durante o jogo são os principais da reciclagem, sendo eles o "vidro", "cartão e papel" e "plásticos".
+
+
+### Lixo
+Ao longo do jogo, o esquilo vai segurando diferentes tipos de lixo diferentes com as patas com o intuito de os deitar no caixote correto.
+
+
+### "Acertaste!"/"Erraste!"
