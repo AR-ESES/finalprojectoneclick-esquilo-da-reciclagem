@@ -21,6 +21,7 @@ Este ecrã é o ecrã do jogo, com todos os assets (que irão ser falados a segu
 
 ### Personagem Principal
 A personagem deste jogo é um esquilo que está preso a uma árvore pelo galho com a cauda dele a segurar.
+
 ![esquilo](imagens/esquilo.jpg)
 
 ### Caixotes do Lixo em movimento
