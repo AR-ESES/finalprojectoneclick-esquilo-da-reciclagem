@@ -13,6 +13,7 @@ Se colocar no caixote correcto, ganha ponto; se tiver 0 pontos e errar, não gan
 
 ### Ecrã de Início
 Este ecrã é o ecrã de início. Tem um botão para podermos iniciar o jogo e uma imagem de fundo relacionada com o tema do jogo.
+
 ![ecrã inicial](imagens/inicio.jpg)
 
 ### Personagem Principal
