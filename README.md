@@ -14,32 +14,32 @@ Se colocar no caixote correcto, ganha ponto; se tiver 0 pontos e errar, não gan
 ### Ecrã de Início
 Este ecrã é o ecrã de início. Tem um botão para podermos iniciar o jogo e uma imagem de fundo relacionada com o tema do jogo.
 
-<img src="imagens/inicio.jpg" width="50" height="100">
+<img src="imagens/inicio.jpg" width="250" height="500">
 
 ### Ecrã do Jogo
 Este ecrã é o ecrã do jogo, com todos os assets (que irão ser falados a seguir).
 
-<img src="imagens/inicio.jpg" width="50" height="100">
+<img src="imagens/inicio.jpg" width="250" height="500">
 
 ### Personagem Principal
 A personagem deste jogo é um esquilo que está preso a uma árvore pelo galho com a cauda dele a segurar.
 
-<img src="imagens/esquilo.jpg" width="50" height="50">
+<img src="imagens/esquilo.jpg" width="250" height="250">
 
 ### Caixotes do Lixo em movimento
 Os caixotes do lixo que estão em movimento durante o jogo são os principais da reciclagem, sendo eles o "indiferenciado", "vidro", "cartão e papel" e "plásticos".
 
-<img src="imagens/indiferenciado.jpg" width="50" height="100">
-<img src="imagens/vidro.jpg" width="50" height="100">
-<img src="imagens/cartao.jpg" width="50" height="100">
-<img src="imagens/plastico.jpg" width="50" height="100">
+<img src="imagens/indiferenciado.jpg" width="280" height="500">
+<img src="imagens/vidro.jpg" width="280" height="500">
+<img src="imagens/cartao.jpg" width="280" height="500">
+<img src="imagens/plastico.jpg" width="280" height="500">
 
 ### Lixo
 Ao longo do jogo, o esquilo vai segurando diferentes tipos de lixo diferentes com as patas com o intuito de os deitar no caixote correto.
 
-<img src="imagens/lixo.jpg" width="200" height="100">
+<img src="imagens/lixo.jpg" width="800" height="450">
 
 ### "Acertaste!"/"Erraste!"
 Quando o jogador acerta ou erra a colocar o lixo nos contentores correctos, aparece diferentes pop ups correspondentes a cada situação.
-<img src="imagens/certo.jpg" width="100" height="100">
-<img src="imagens/errado.jpg" width="100" height="100">
+<img src="imagens/certo.jpg" width="250" height="250">
+<img src="imagens/errado.jpg" width="250" height="250">
