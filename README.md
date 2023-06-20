@@ -12,6 +12,5 @@ Em termos de mecânicas do jogo, basicamente um esquilo está pendurado num galh
 Se colocar no caixote correcto, ganha ponto; se tiver 0 pontos e errar, não ganha ponto; se tiver pontos e errar, perde ponto.
 
 ![ecrã inicial](imagens/inicio.jpg)
-### ecrã de início
-
-Este ecrã é o ecrã de início. Apenas tem um botão para começar o jogo.
+### Ecrã de Início
+Este ecrã é o ecrã de início. Tem um botão para podermos iniciar o jogo e uma imagem de fundo relacionada com o tema do jogo.
