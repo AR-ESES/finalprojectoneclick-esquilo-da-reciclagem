@@ -11,6 +11,6 @@ Este projecto consiste numa ideia de um videojogo do tipo one-click, com o tema 
 Em termos de mecânicas do jogo, basicamente um esquilo está pendurado num galho de uma árvore, a ir para cima e para baixo com lixo nas mãos, enquanto aparece aleatóriamente os caixotes da reciclagem para colocar o lixo. O objetivo é colocar o lixo correcto no caixote correcto!
 Se colocar no caixote correcto, ganha ponto; se tiver 0 pontos e errar, não ganha ponto; se tiver pontos e errar, perde ponto.
 
-![ecrã inicial](imagens/inicio.jpg)
 ### Ecrã de Início
 Este ecrã é o ecrã de início. Tem um botão para podermos iniciar o jogo e uma imagem de fundo relacionada com o tema do jogo.
+![ecrã inicial](imagens/inicio.jpg)
