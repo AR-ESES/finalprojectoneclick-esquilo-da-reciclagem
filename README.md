@@ -41,5 +41,6 @@ Ao longo do jogo, o esquilo vai segurando diferentes tipos de lixo diferentes co
 
 ### "Acertaste!"/"Erraste!"
 Quando o jogador acerta ou erra a colocar o lixo nos contentores correctos, aparece diferentes pop ups correspondentes a cada situação.
+
 <img src="imagens/certo.jpg" width="225" height="250">
 <img src="imagens/errado.jpg" width="225" height="250">
