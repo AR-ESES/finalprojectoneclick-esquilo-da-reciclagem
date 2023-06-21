@@ -24,7 +24,7 @@ Este ecrã é o ecrã do jogo, com todos os assets (que irão ser falados a segu
 ### Personagem Principal
 A personagem deste jogo é um esquilo que está preso a uma árvore pelo galho com a cauda dele a segurar.
 
-<img src="imagens/esquilo.jpg" width="250" height="250">
+<img src="imagens/esquilo.png" width="250" height="250">
 
 ### Caixotes do Lixo em movimento
 Os caixotes do lixo que estão em movimento durante o jogo são os principais da reciclagem, sendo eles o "indiferenciado", "vidro", "cartão e papel" e "plásticos".
