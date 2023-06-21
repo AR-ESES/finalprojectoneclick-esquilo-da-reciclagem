@@ -19,9 +19,7 @@ Este ecrã é o ecrã de início. Tem um botão para podermos iniciar o jogo e u
 ### Ecrã do Jogo
 Este ecrã é o ecrã do jogo, com todos os assets (que irão ser falados a seguir).
 
-<img src="imagens/M2.png" width="250" height="500">
-<img src="imagens/M13.png" width="250" height="500">
-<img src="imagens/M23.png" width="250" height="500">
+<img src="imagens/M2.png" width="250" height="500"> <img src="imagens/M13.png" width="250" height="500"> <img src="imagens/M23.png" width="250" height="500">
 
 ### Personagem Principal
 A personagem deste jogo é um esquilo que está preso a uma árvore pelo galho com a cauda dele a segurar.
